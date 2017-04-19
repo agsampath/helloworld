@@ -67,7 +67,7 @@
 			</plugin>
 			
 		</plugins>
-		<finalName>sampath</finalName>
+		<finalName>sample-jboss-helloworld</finalName>
 	</build>
 
 </project>
